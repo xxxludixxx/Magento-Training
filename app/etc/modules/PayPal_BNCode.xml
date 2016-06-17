@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <PayPal_BNCode>
+      <active>true</active>
+      <codePool>community</codePool>
+    </PayPal_BNCode>
+  </modules>
+</config>
